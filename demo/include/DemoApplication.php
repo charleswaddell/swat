@@ -222,7 +222,6 @@ class DemoApplication
 				'SwatCheckboxList',
 				'SwatCheckboxEntryList',
 				'SwatCheckboxTree',
-				'SwatExpandableCheckboxTree',
 				);
 			break;
 
